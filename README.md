@@ -9,8 +9,8 @@
 
 <br />
 <p align="left"></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=witeem&show_icons=true&locale=en&layout=compact" alt="witeem" style="width:420px" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=witeem&show_icons=true&locale=en" alt="witeem" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=witeem&show_icons=true&locale=en&layout=compact" alt="witeem" style="width:350px" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=witeem&show_icons=true&locale=en" alt="witeem" style="width:400px" /></p>
 
 <p align="left"></p> 
 
