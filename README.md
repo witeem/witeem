@@ -16,9 +16,6 @@
 
 <br/>
 
-[![witeem's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=witeem&theme=vue)](https://github.com/witeem/github-readme-activity-graph)
-
-
 <!--
 **witeem/witeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
