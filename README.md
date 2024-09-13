@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from China</h3>
 
 <figure class="half">
-   <img align="left" width="490" height="165" src="https://github-readme-streak-stats.herokuapp.com?user=witeem&theme=merko&date_format=M%20j%5B%2C%20Y%5D" />
+   <img align="left" width="460" height="165" src="https://github-readme-streak-stats.herokuapp.com?user=witeem&theme=merko&date_format=M%20j%5B%2C%20Y%5D" />
    <img src="https://github-readme-stats.vercel.app/api?username=witeem&show_icons=true&theme=merko" />
 </figure>
 
