@@ -11,8 +11,8 @@
 ![](https://raw.githubusercontent.com/witeem/witeem/main/dist/github-contribution-grid-snake.svg)
 
 <figure class="half">
-   <img align="left" width="420" height="165" src="https://github-readme-streak-stats.herokuapp.com?user=witeem&theme=merko&date_format=M%20j%5B%2C%20Y%5D" />
-   <img width="420" height="165" src="https://github-readme-stats.vercel.app/api?username=witeem&show_icons=true&theme=merko" />
+   <img align="left" width="340" height="165" src="https://github-readme-streak-stats.herokuapp.com?user=witeem&theme=merko&date_format=M%20j%5B%2C%20Y%5D" />
+   <img width="340" height="165" src="https://github-readme-stats.vercel.app/api?username=witeem&show_icons=true&theme=merko" />
 </figure>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=witeem" alt="witeem" /></a> </p>
