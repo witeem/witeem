@@ -8,7 +8,7 @@
 - ⚡ Fun fact ... **Chinese cartoon**❤
 - 📫 How to reach me ...**witeem@126.com**
 
-![](https://raw.githubusercontent.com/witeem/witeem/main/dist/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/witeem/witeem/output/github-contribution-grid-snake.svg)
 
 <figure class="half">
    <img align="left" width="420" height="165" src="https://github-readme-streak-stats.herokuapp.com?user=witeem&theme=merko&date_format=M%20j%5B%2C%20Y%5D" />
